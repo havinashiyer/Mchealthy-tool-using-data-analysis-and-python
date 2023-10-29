@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import circlify
 import random
 
-st.title('The McDonalds McHealthy Tool')
+st.title('The Healthy Eating Tool')
 st.text('''Mcdonalds can be healthy too. This tool uses
 linear programming to find a healthy mcd combo. I go to the gym and i always
 try and eat healthy so i thought this project would be ideal :)
