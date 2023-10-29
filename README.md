@@ -1,6 +1,5 @@
 # Mchealthy-tool-using-data-analysis-and-python
-Network URL: http://192.168.1.8:8501
-![McHealthy Tool](https://imgur.com/a/wGPgiHt)
+URL for the App: https://mchealthy-tool-using-data-analysis-and-python-ckp3my548cf85abg.streamlit.app/
 
 ## Description
 The McDonalds McHealthy Tool is a data analytics and optimization project that helps users create a healthy meal from McDonald's menu items while meeting specific nutritional constraints. This tool utilizes linear programming and visualization techniques to provide a nutritious meal plan.
