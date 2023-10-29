@@ -18,7 +18,7 @@ linear programming to find a healthy mcd combo. I go to the gym and i always
 try and eat healthy so i thought this project would be ideal :)
         ''')
 
-McData = pd.read_csv('D:\mcd\menu.csv.csv')
+McData = pd.read_csv('menu.csv.csv')
 
 
 
