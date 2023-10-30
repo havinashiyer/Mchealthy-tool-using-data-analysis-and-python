@@ -1,5 +1,5 @@
 # Healthy-tool-using-data-analysis-and-python
-URL for the App: https://mchealthy-tool-using-data-analysis-and-python-ckp3my548cf85abg.streamlit.app/
+URL for the App: https://mchealthy-tool-using-data-analysis-and-python-j53vmmpizrgbggie.streamlit.app/
 
 ## Description
 The Healthy Eating Tool is a data analytics and optimization project that helps users create a healthy meal from McDonald's menu items while meeting specific nutritional constraints. This tool utilizes linear programming and visualization techniques to provide a nutritious meal plan.
