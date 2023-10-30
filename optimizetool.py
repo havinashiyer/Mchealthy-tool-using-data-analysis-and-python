@@ -45,7 +45,7 @@ st.sidebar.write('Limits for Combo')
 TotalFat_val = st.sidebar.number_input('Total Fat Max', value=70)
 SatFat_val = st.sidebar.number_input('Saturated Fat Max', value=20)
 
-SugarMin = st.sidebar.number_input('Suguar Min', value=80)
+SugarMin = st.sidebar.number_input('Sugar Min', value=80)
 SugarMax = st.sidebar.number_input('Sugar Max', value=100)
 
 CarbsMin = st.sidebar.number_input('Carbohydrates Min', value=260)
